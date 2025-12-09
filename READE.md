@@ -52,3 +52,9 @@ data.txt is created automatically in the project folder.
 Keep sensitive data safe; avoid sharing your real passwords publicly.
 
 This is a learning project and not intended for storing real, critical passwords.
+
+
+
+
+<img src="screenshot.png" width="445" height="230" alt="Password Manager Screenshot" />
+
