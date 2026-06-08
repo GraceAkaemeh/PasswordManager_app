@@ -50,25 +50,33 @@ Python 3 installieren (falls nicht vorhanden) / Install Python 3 if not installe
 python main.py
 
  How to Use / Bedienung
+
 🇩🇪 Deutsch
+
 Firma/Website und Benutzername eingeben
 Optional Passwort generieren lassen
 Auf Add klicken zum Speichern
 Gespeicherte Passwörter anzeigen lassen
+
 🇬🇧 English
+
 Enter company/website and username
 Optionally generate a password
 Click Add to save
 View saved passwords anytime
-🧰 Tech Stack
+
+Tech Stack
 Python 3
 Tkinter (GUI)
 File I/O (Text file storage)
+
 📌 Notes / Hinweise
+
 data.txt wird automatisch erstellt
 Dieses Projekt ist nur zu Lernzwecken gedacht
 Keine echte Verschlüsselung (nicht für echte Passwörter geeignet)
 Passwörter werden als Klartext gespeichert
+
 🖼️ Screenshot
 <img src="screenshot.png" width="450" alt="Password Manager Screenshot" />
 
